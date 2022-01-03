@@ -2,8 +2,7 @@
 
 > Inkdrop plugin that turns on power mode
 
-![](https://inkdrop-plugin-badge.vercel.app/api/version/power) ![](https://inkdrop-plugin-badge.vercel.app/api/downloads/power)
-
+![](https://inkdrop-plugin-badge.vercel.app/api/version/power) ![](https://inkdrop-plugin-badge.vercel.app/api/downloads/power) ![](https://img.shields.io/github/license/Luke-1220/inkdrop-power?style=plastic)
 
 ![demo](./demo.gif)
 
