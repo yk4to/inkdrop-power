@@ -1,4 +1,4 @@
-# Power
+# Inkdrop Power Plugin
 
 > Inkdrop plugin that turns on power mode
 
