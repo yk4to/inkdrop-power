@@ -1,0 +1,12 @@
+{
+  "name": "power",
+  "main": "./power",
+  "version": "1.0.0",
+  "description": "turns on power mode",
+  "keywords": [],
+  "repository": "https://github.com/Luke-1220/inkdrop-power",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  }
+}
