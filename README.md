@@ -21,7 +21,7 @@ Preferences -> Plugins -> power -> Settings
 | Title | Default Value | Description |
 | ---- | ---- | ---- |
 | Enable Effect | On | Select if you enable particles effects. |
-| Effect Type | 1 | Select if you enable particles effects. |
+| Effect Type | 1 | Select effect types to use. |
 | Enable Shake | Off | Select if you enable shake. |
 
 ## Known Issues
