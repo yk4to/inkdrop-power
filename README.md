@@ -2,6 +2,9 @@
 
 > Inkdrop plugin that turns on power mode
 
+![](https://inkdrop-plugin-badge.vercel.app/api/version/power)![](https://inkdrop-plugin-badge.vercel.app/api/downloads/power)
+
+
 ![demo](./demo.gif)
 
 This is a Inkdrop plugin that turns on power modes with shake and particles.
