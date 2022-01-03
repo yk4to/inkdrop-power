@@ -1,7 +1,7 @@
 {
   "name": "power",
   "main": "./power",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "turns on power mode",
   "keywords": [],
   "repository": "https://github.com/Luke-1220/inkdrop-power",

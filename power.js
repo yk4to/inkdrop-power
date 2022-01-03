@@ -60,7 +60,8 @@ module.exports = {
 }
 
 function getRGBComponents(node) {
-  var color = getComputedStyle(node).color
+  var color
+  if (node) color = getComputedStyle(node).color
   if (color) {
     try {
       return color.match(/(\d+), (\d+), (\d+)/).slice(1)
