@@ -32,6 +32,10 @@ Preferences -> Plugins -> power -> Settings
 
 ## Changelog
 
+### 1.0.1
+
+* Fixed a bug that tried to getComputedStyle from a non-existent node.
+
 ### 1.0.0 - First Release
 * Every feature added
 * Every bug fixed
